@@ -1,2 +1,2 @@
-# Original-JetBrains-Darcula-theme
-Jet Brains Theme for the Zed Code Editor
+# JetBrains Darcula theme by lleWell
+one of the most beloved Darc JetBrains Theme for the Zed Code Editor
