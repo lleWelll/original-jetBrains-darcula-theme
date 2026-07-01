@@ -188,9 +188,12 @@
             "selection": "#a1c1813d"
           }
         ],
+        "accents": [
+          "#BBB528"
+        ],
         "syntax": {
           "attribute": {
-            "color": "#FFC66DFF",
+            "color": "#BBB528",
             "font_style": null,
             "font_weight": null
           },
@@ -252,7 +255,7 @@
           "keyword": {
             "color": "#CD7832FF",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 600
           },
           "label": {
             "color": "#7FAABAFF",
@@ -315,7 +318,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#b2b9c6ff",
+            "color": "#CD7832",
             "font_style": null,
             "font_weight": null
           },
